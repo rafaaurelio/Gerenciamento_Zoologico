@@ -1,0 +1,14 @@
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\bin\Debug\net8.0\Gerenciamento_Zoologico.exe
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\bin\Debug\net8.0\Gerenciamento_Zoologico.deps.json
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\bin\Debug\net8.0\Gerenciamento_Zoologico.runtimeconfig.json
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\bin\Debug\net8.0\Gerenciamento_Zoologico.dll
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\bin\Debug\net8.0\Gerenciamento_Zoologico.pdb
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\obj\Debug\net8.0\Gerenciamento_Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\obj\Debug\net8.0\Gerenciamento_Zoologico.AssemblyInfoInputs.cache
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\obj\Debug\net8.0\Gerenciamento_Zoologico.AssemblyInfo.cs
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\obj\Debug\net8.0\Gerenciamento_Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\obj\Debug\net8.0\Gerenciamento_Zoologico.dll
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\obj\Debug\net8.0\refint\Gerenciamento_Zoologico.dll
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\obj\Debug\net8.0\Gerenciamento_Zoologico.pdb
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\obj\Debug\net8.0\Gerenciamento_Zoologico.genruntimeconfig.cache
+C:\Users\Greuds\Desktop\AP2\Gerenciamento_Zoologico\obj\Debug\net8.0\ref\Gerenciamento_Zoologico.dll
