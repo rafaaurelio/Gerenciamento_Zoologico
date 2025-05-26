@@ -1,10 +1,5 @@
 ﻿using System.Diagnostics;
 
-Veterinario vet = new Veterinario("Cleiton", 79, "Mestre das cobras");
-Veterinario vet2 = new Veterinario("Amilton", 79, "domador de lagartos");
-Ave ave1 = new Ave("Pombao", 25, 55.20, "pomba rola");
-Ave ave2 = new Ave("Pardal", 25, 55.20, "pardal metralhadora");
-
 List<Animal> animais = new List<Animal>();
 List<Funcionario> funcionarios = new List<Funcionario>();
 animais.Add(ave1);
